@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://piskel-imgstore-b.appspot.com/img/ca3b956b-c2e1-11ea-a526-8d679d98385e.gif" width="200px" /><br>
+    <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="200px" /><br>
 </h1>
 
 ## Hello everyone, welcome to my profile 👋

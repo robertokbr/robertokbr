@@ -4,7 +4,7 @@
 
 ## Hello everyone, welcome to my profile 👋
 ### That's a tiny description of me.
-My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT from 13 years old, and I joy in the University in 2016. After three years of working and studying development methodology like SCRUM, I decide to focus on the software development world, and now, my fulltime work is to the developer!
+My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since I'm 13 years. I got to the University in 2016. After three years of working and studying development methodology like SCRUM, I did decide to focus on the software development world, and now, my fulltime work is to developer
 
 #### Some considerations:
 - 🔭 I’m currently working as a freelancer

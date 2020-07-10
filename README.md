@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://piskel-imgstore-b.appspot.com/img/ca3b956b-c2e1-11ea-a526-8d679d98385e.gif" width="200px" /><br>
+</h1>
+
 ## Hello everyone, welcome to my profile 👋
 ### That's a tiny description of me.
 My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT from 13 years old, and I joy in the University in 2016. After three years of working and studying development methodology like SCRUM, I decide to focus on the software development world, and now, my fulltime work is to the developer!

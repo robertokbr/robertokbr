@@ -6,8 +6,6 @@ My name is Roberto Junior, I'm a full-stack developer and a Computer science stu
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Full stack development at Rocketseat
 - 👯 I’m looking to collaborate on Javascript and Typescript projects
-- 🤔 I’m looking for help with projects that has 
-- 💬 Ask me about everything on my LinkedIn
+- 💬 Ask me about anything on my LinkedIn
 - 📫 How to reach me: send me an email 👉 robertojuniordev@gmail.com
-- ⚡ Fun fact: The best way to don't get bugs in your code is don't coding
-
+- ⚡ Fun fact: The best way to don't get bugs in your code is don't coding 🧠

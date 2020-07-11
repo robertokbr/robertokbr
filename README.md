@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-robertojuniordev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertojuniordev@gmail.com)](mailto:robertojuniordev@gmail.com)
 ## Hello everyone, welcome to my profile 👋
 ### That's a tiny description of me.
-My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since I'm 13 years. I got to the University in 2016. After three years of working and studying development methodology like SCRUM, I did decide to focus on the software development world, and now, my fulltime work is to developer
+My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since I'm 13 years, I got to the University in 2016, and after three years of working and studying development methodology like SCRUM, I did decide to focus on the software development world, and now, my fulltime work is to developer
 
 #### Some considerations:
 - 🔭 I’m currently working as a freelancer

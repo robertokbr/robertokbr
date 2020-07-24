@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roberto%20Junior-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertojrcdc/)](https://www.linkedin.com/in/robertojrcdc/) 
 [![Gmail Badge](https://img.shields.io/badge/-robertojuniordev@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertojuniordev@gmail.com)](mailto:robertojuniordev@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Roberto%20Junior-000?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591983924120&text=Estou%20vindo%20do%20Github)]
 
 
 ## Hello everyone, welcome to my profile 👋

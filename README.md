@@ -2,8 +2,11 @@
     <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="120px" /><br>
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20Junior-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertojrcdc/)](https://www.linkedin.com/in/robertojrcdc/) 
-[![Gmail Badge](https://img.shields.io/badge/-robertojuniordev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertojuniordev@gmail.com)](mailto:robertojuniordev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20Junior-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertojrcdc/)](https://www.linkedin.com/in/robertojrcdc/) 
+[![Gmail Badge](https://img.shields.io/badge/-robertojuniordev@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertojuniordev@gmail.com)](mailto:robertojuniordev@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Roberto%20Junior-000?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591983924120&text=Estou%20vindo%20do%20Github)]
+
+
 ## Hello everyone, welcome to my profile 👋
 ### That's a tiny description of me.
 My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since I'm 13 years, I got to the University in 2016, and after three years of working and studying development methodology like SCRUM, I did decide to focus on the software development world, and now, my fulltime work is to developer

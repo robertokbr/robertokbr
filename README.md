@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="flex-start">
     <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="120px" /><br>
 </h1>
 

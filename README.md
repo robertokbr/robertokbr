@@ -11,7 +11,7 @@
 My name is Roberto Junior, I'm a full-stack developer and a Computer science student based at Belém / PA. I have been studying IT since 2014, I got to the University in 2016, and after three years of development methodology practice and study, I decided to focus on the software development world, and now, that's my fulltime work. Feel free to invite me to your project!
 
 #### Some considerations:
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a Frontend Developer at Fluency Academy
 - 🌱 I’m currently learning Full stack development at Rocketseat
 - 👯 I’m looking to collaborate on Javascript and Typescript projects
 - 💬 Ask me about anything on my LinkedIn

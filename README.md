@@ -12,7 +12,7 @@ My name is Roberto Junior. I am a full-stack developer and a Computer science st
 
 #### Some considerations:
 - 🔭 I’m currently working as a Frontend Developer at Fluency Academy
-- 🌱 I’m currently learning Full stack development at Rocketseat
+- 🌱 I’m currently learning Knex.JS, Node.JS, and GraphQL.
 - 👯 I’m looking to collaborate on Javascript and Typescript projects
 - 💬 Ask me about anything on my LinkedIn
 - 📫 How to reach me: send me an email 👉 robertojuniordev@gmail.com

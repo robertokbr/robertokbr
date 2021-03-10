@@ -8,12 +8,11 @@
 
 ## Hello everyone, welcome to my profile 👋
 ### That's a tiny description of me.
-My name is Roberto Junior. I am a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since 2014. Around that road of learning, I had joyned into the college, opened my own company, worked as a mobile Developer, joined the Fluency Academy team as a Frontend Developer, and started more than 50 projects. Moreover, I hope to grow every day and contribute to how many Impacting projects I can. Feel free to reach me.
+My name is Roberto Junior. I am a full-stack developer and a Computer science student based at Belém/PA. I have been studying IT since 2014. Around that road of learning, I had joyned into the college, opened my own company, worked as a mobile Developer, joined the Fluency Academy team as a Fullstack Developer, and started more than 50 projects. Moreover, I hope to grow every day and contribute to how many Impacting projects I can. Feel free to reach me and ask me about anything 🤟.
 
 #### Some considerations:
-- 🔭 I’m currently working as a Frontend Developer at Fluency Academy
-- 🌱 I’m currently learning Knex.JS, Node.JS, and GraphQL.
+- 🔭 I’m currently working as a FullStack Developer at Fluency Academy
+- 🌱 I’m currently learning Elixir, Typescript, and JavaScript.
 - 👯 I’m looking to collaborate on Javascript and Typescript projects
-- 💬 Ask me about anything on my LinkedIn
 - 📫 How to reach me: send me an email 👉 robertojuniordev@gmail.com
 - ⚡ Fun fact: The best way to don't get bugs in your code is don't coding 🧠

@@ -1,5 +1,5 @@
 <h1 align="flex-start">
-    <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="120px" /> <img src="https://github-readme-stats.vercel.app/api?username=robertokbr&show_icons=true" alt="robertokbr"/> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=robertokbr&show_icons=true" alt="robertokbr"/> <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="120px" />  <br>
 </h1>
 
 #### Some considerations:

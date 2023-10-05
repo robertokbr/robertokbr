@@ -1,8 +1,18 @@
-<h1 align="flex-start">
-   <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" height="120px" />  <br>
-</h1>
+<p align="center">
+  <img  src="https://bero.robkbr.com/static/bero.png" width="100px"/>
+</p>
+<h1 align="center">Hey There! 👋🏻</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20Junior-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertojrcdc/)](https://www.linkedin.com/in/robertojrcdc/) 
-[![Gmail Badge](https://img.shields.io/badge/-robertojuniordev@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertojuniordev@gmail.com)](mailto:robertojuniordev@gmail.com)
+📍 My Name is Roberto Junior, but I am also known as Bero. I am a software developer and a content creator.
+I love coding and I love to learn new things. If you want to get in touch, you can reach me through the email: robertojuniordev@gmail.com
+
+
+### Links
+- 📽️ YouTube: https://www.youtube.com/@meunomeebero
+- 🧻 Tiktok: https://www.tiktok.com/@tiktokdobero
+- 🐦 Twtter: https://twitter.com/ttdobero
+- 🎙️ Discord: https://discord.gg/HE9z6EmUh6
+
+
 
 
